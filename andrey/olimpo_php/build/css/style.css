@@ -1,0 +1,41 @@
+body {
+    background-color:black ;}
+
+h1, p, a {
+    display: block;
+    text-align: center;
+    line-height:.8;
+    color: white;
+}
+.contenido {
+    max-width: 1200px;
+    margin: 5rem auto 0 auto;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+h1 {
+    font-size: 4rem;
+    color: #033fcb;
+}
+a {
+    font-size: 2.4rem;
+    color: #033fcb;
+}
+p {
+    font-size: 2.2rem;
+}
+
+.hashtag {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2rem;
+}
+.resultado {
+    margin-top:10rem;
+    text-align: left;
+    font-size: 2rem;
+}
+h3 {
+
+    color:#033fcb;
+}

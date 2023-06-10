@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(74, 74, 73);
+    text-align: center;
+
+}
+.formulario1{
+    text-align: center;
+    padding: 10px;
+    width: center;
+    background-color: rgb(207, 200, 200);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(165, 162, 178);
+    font-family:'Franklin Gothic Medium';
+    font-size:15px;
+    margin-top: 10px;
+}
