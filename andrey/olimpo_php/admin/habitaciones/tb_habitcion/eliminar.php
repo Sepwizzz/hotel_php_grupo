@@ -49,7 +49,7 @@ $errores =  [];
         <fieldset>
             <legend>Datos</legend>
             <label for="id">No. de habitacion</label><br>
-            <input type="text" id="id" name="id"><br>
+            <input class="formu" type="text" id="id" name="id"><br>
 
             <input type="submit" id="enviar" name="enviar" value="Enviar datos">
 

@@ -21,7 +21,7 @@ $resultado_consulta = mysqli_query($bd, $consulta);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="stylesheet" href="http://localhost/andrey/hotel_PHP/build/css/a2.css">
+<link rel="stylesheet" href="http://localhost/OLIMPO_PHP/build/css/a2.css">
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

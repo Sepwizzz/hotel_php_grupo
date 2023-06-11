@@ -65,19 +65,19 @@ $errores =  [];
         <fieldset>
             <legend>Datos</legend>
             <label for="tipo">ponga el tipo de habitacion</label><br>
-            <input type="text" id="tipo" name="tipo"><br>
+            <input class="formu" type="text" id="tipo" name="tipo"><br>
 
             <label for="mobiliario">ponga el numero de moviliario :</label><br>
-            <input type="text" id="mobiliario" name="mobiliario" ><br>
+            <input class="formu" type="text" id="mobiliario" name="mobiliario" ><br>
 
             <label for="cantidad_p">ponga la cantidad de personas :</label><br>
-            <input type="text" id="cantidad_p" name="cantidad_p" ><br>
+            <input class="formu" type="text" id="cantidad_p" name="cantidad_p" ><br>
 
             <label for="valor_b">ponga el valor del tipo :</label><br>
-            <input type="text" id="valor_b" name="valor_b" ><br>
+            <input class="formu" type="text" id="valor_b" name="valor_b" ><br>
             
 
-            <input type="submit" id="enviar" name="enviar" value="Enviar datos">
+            <input class="formu" type="submit" id="enviar" name="enviar" value="Enviar datos">
 
          
         </fieldset>

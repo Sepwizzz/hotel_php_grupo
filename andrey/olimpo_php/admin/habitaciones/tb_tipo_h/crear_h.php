@@ -61,19 +61,20 @@ $errores1 =  [];
     <form class="formulario1" method="POST" action="crear_h.php">
         <fieldset>
             <legend>Datos</legend>
+            
             <label for="tipo">ponga el tipo de la habitacion</label><br>
-            <input type="text" id="tipo" name="tipo"><br>
+            <input  class="formu" type="text" id="tipo" name="tipo"><br>
 
             <label for="mobiliario">ponga el numero de moviliario :</label><br>
-            <input type="text" id="mobiliario" name="mobiliario"><br>
+            <input  class="formu" type="text" id="mobiliario" name="mobiliario"><br>
 
             <label for="cantidad_p">ponga cantidad de personas :</label><br>
-            <input type="text" id="cantidad_p" name="cantidad_p" ><br>
+            <input  class="formu" type="text" id="cantidad_p" name="cantidad_p" ><br>
 
             <label for="valor_b">ponga el valor :</label><br>
-            <input type="float" id="valor_b" name="valor_b" ><br>
+            <input  class="formu" type="float" id="valor_b" name="valor_b" ><br>
 
-            <input type="submit" id="enviar" name="enviar" value="Enviar datos">
+            <input  class="formu" type="submit" id="enviar" name="enviar" value="Enviar datos">
         </fieldset>
         
     </form>

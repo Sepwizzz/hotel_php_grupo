@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="http://localhost/andrey/hotel_PHP/build/css/a2.css">
+<link rel="stylesheet" href="http://localhost/OLIMPO_PHP/build/css/a2.css">
 
 <?php 
 require '../../includes/funciones.php';
@@ -55,11 +55,11 @@ $errores =  [];
         <fieldset>
             <legend>Datos</legend>
             <label for="id">No. de codigo</label><br>
-            <input type="text" id="id" name="id"><br>
+            <input class="formu" type="text" id="id" name="id"><br>
             <label for="correo">Nuevo correo electrónico:</label><br>
-            <input type="mail" id="correo" name="correo" ><br>
+            <input class="formu" type="mail" id="correo" name="correo" ><br>
 
-            <input type="submit" id="enviar" name="enviar" value="Enviar datos">
+            <input class="formu" type="submit" id="enviar" name="enviar" value="Enviar datos">
 
          
         </fieldset>

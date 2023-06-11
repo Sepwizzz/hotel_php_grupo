@@ -57,15 +57,15 @@ $errores =  [];
         <fieldset>
             <legend>Datos</legend>
             <label for="id">No. de habitacion</label><br>
-            <input type="text" id="id" name="id"><br>
+            <input class="formu" type="text" id="id" name="id"><br>
 
             <label for="tipo">nuevo tipo:</label><br>
-            <input type="mail" id="tipo" name="tipo" ><br>
+            <input class="formu" type="mail" id="tipo" name="tipo" ><br>
             
             <label for="descripcion">nuevo descripcion:</label><br>
-            <input type="mail" id="descripcion" name="descripcion" ><br>
+            <input class="formu" type="mail" id="descripcion" name="descripcion" ><br>
 
-            <input type="submit" id="enviar" name="enviar" value="Enviar datos">
+            <input class="formu" type="submit" id="enviar" name="enviar" value="Enviar datos">
 
          
         </fieldset>
